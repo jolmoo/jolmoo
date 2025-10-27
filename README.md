@@ -1,7 +1,5 @@
 # Jolmo | Computer Engineer | Cloud & DevOps Enthusiast
----
 
-## 🧠 About Me
 
 I am a **Computer Engineer** deeply passionate about **Cloud Computing** and **DevOps** practices. My goal is to build scalable, automated, and resilient systems. I am also actively pursuing my growth as an aspiring   **Full Stack Developer**.
 

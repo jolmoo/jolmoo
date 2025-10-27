@@ -1,4 +1,4 @@
-# [Your Name] | Computer Engineer | Cloud & DevOps Enthusiast
+# [Jolmo] | Computer Engineer | Cloud & DevOps Enthusiast
 
 <p align="center">
   <img src="[Link to your professional profile picture or avatar]" alt="Your Photo/Avatar" width="150" style="border-radius: 50%;">

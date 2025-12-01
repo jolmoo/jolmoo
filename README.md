@@ -3,7 +3,7 @@
 
 I am a **Computer Engineer** deeply passionate about **Cloud Computing** and **DevOps** practices. My goal is to build scalable, automated, and resilient systems. I am also actively pursuing my growth as an aspiring   **Full Stack Developer**.
 
-* **Current Role:** I currently work as a **FrontEnd Mobile Developer** at **Pickmu**, where I utilize **React Native** to create fluid and efficient user experiences.
+* **Current Role:** 
 * **Professional Goal:** I am looking forward to transitioning into a **Cloud Engineer** role, focusing on Infrastructure as Code (IaC), CI/CD pipelines, and cloud service optimization to improve development and production environments.
 * **I'm Currently Learning:** concurrent programming in Java and OS virtualization.
 

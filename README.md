@@ -7,4 +7,5 @@ From frontend to backend, deployments to maintenance — I cover the full lifecy
 ---
 
 📎 [jolmo.pages.dev](https://jolmo.pages.dev)
+
 📄 [Curriculum Vitae](https://jolmo.pages.dev/cv)

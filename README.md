@@ -1,7 +1,9 @@
 # Jolmo
 
-Computer Engineer with end-to-end experience — from frontend interfaces to backend services, deployments, and system maintenance.
+> Computer Engineer who builds things end-to-end and thinks in systems.
 
-Oriented toward Cloud Engineering and Software Architecture. Interested in designing systems that are scalable, automated, and built to last.
+From frontend to backend, deployments to maintenance — I cover the full lifecycle. My goal is to move into Cloud Engineering or Software Architecture, designing infrastructure that is scalable, automated, and built to last.
 
-**Portfolio:** [jolmo.pages.dev](https://jolmo.pages.dev)
+---
+
+📎 [jolmo.pages.dev](https://jolmo.pages.dev)

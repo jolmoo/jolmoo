@@ -1,13 +1,10 @@
 # Jolmo
 
-> Computer Engineer who builds things end-to-end and thinks in systems.
+Computer Engineer. I build complete systems end-to-end — web apps, mobile apps, backend APIs, and production deployments.
 
-From frontend to backend, deployments to maintenance — I cover the full lifecycle. My goal is to move into Cloud Engineering or Software Architecture, designing infrastructure that is scalable, automated, and built to last.
-
-Currently building @Entidex — a high-performance uptime monitoring platform engineered with a multi-region consensus engine
+Focused on backend engineering and distributed systems, with the goal of moving into cloud infrastructure and software architecture.
 
 ---
 
-📎 [jolmo.pages.dev](https://jolmo.pages.dev)
-
+📎 [jolmo.pages.dev](https://jolmo.pages.dev)  
 📄 [Curriculum Vitae](https://jolmo.pages.dev/cv)

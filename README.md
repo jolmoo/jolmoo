@@ -1,10 +1,31 @@
 # Jolmo
 
-Computer Engineer. I build complete systems end-to-end — web apps, mobile apps, backend APIs, and production deployments.
+Computer Engineering student building production-ready systems —
+backend APIs, distributed architectures, and end-to-end deployments.
 
-Focused on backend engineering and distributed systems, with the goal of moving into cloud infrastructure and software architecture.
+Comfortable across the full stack. Focused on what happens behind the interface:
+system design, backend engineering, and cloud infrastructure.
 
 ---
 
-📎 [jolmo.pages.dev](https://jolmo.pages.dev)  
-📄 [Curriculum Vitae](https://jolmo.pages.dev/cv)
+## Stack
+
+**Languages** · Python · Java · TypeScript · JavaScript · C · Bash
+
+**Backend** · FastAPI · Django · Node.js · Express
+
+**Data** · PostgreSQL · Oracle SQL · Redis
+
+**Infrastructure** · Docker · Nginx · GitHub Actions · Cloudflare
+
+**Frontend** · React · Next.js · React Native · Expo
+
+---
+
+## Interests
+
+Distributed systems · API design · Cloud-native architecture · System design
+
+---
+
+[Portfolio](https://jolmo.pages.dev) · [CV](https://jolmo.pages.dev/cv)

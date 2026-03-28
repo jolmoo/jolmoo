@@ -14,8 +14,7 @@ system design, backend engineering, and cloud infrastructure.
 
 **Databases & Caching**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 
 **Infrastructure & DevOps**
 <br/>

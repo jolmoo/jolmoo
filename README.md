@@ -10,19 +10,41 @@ system design, backend engineering, and cloud infrastructure.
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" alt="Node.js, FastAPI, Django, GraphQL" />
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/><sub>FastAPI</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/><sub>Django</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/><sub>GraphQL</sub></td>
+</tr></table>
 
 **Databases & Caching**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="PostgreSQL, Redis, MongoDB" />
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub>PostgreSQL</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/><sub>Redis</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub>MongoDB</sub></td>
+</tr></table>
 
 **Infrastructure & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" alt="AWS, Docker, GitHub Actions, Cloudflare, Nginx" />
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub>AWS</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub>Docker</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub>GitHub Actions</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/><sub>Cloudflare</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/><sub>Nginx</sub></td>
+</tr></table>
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,c,bash" alt="Java, Python, TypeScript, JavaScript, C, Bash" />
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub>Java</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/><br/><sub>Python</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub>TypeScript</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub>C</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br/><sub>Bash</sub></td>
+</tr></table>
 
 ---
 

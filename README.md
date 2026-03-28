@@ -9,16 +9,20 @@ system design, backend engineering, and cloud infrastructure.
 ---
 
 ## Stack
+**Backend & APIs**
+Node.js · FastAPI · Django · GraphQL
 
-**Languages** · Python · Java · TypeScript · JavaScript · C · Bash
+**Databases & Caching**
+PostgreSQL · Redis · Oracle SQL
 
-**Backend** · FastAPI · Django · Node.js · Express
+**Infrastructure & DevOps**
+Docker · GitHub Actions · Cloudflare
 
-**Data** · PostgreSQL · Oracle SQL · Redis
+**Languages**
+TypeScript · Python · JavaScript · Java · C · Bash
 
-**Infrastructure** · Docker · Nginx · GitHub Actions · Cloudflare
-
-**Frontend** · React · Next.js · React Native · Expo
+**Frontend (working knowledge)**
+React · Next.js · React Native · Expo
 
 ---
 
@@ -30,4 +34,3 @@ Distributed systems · API design · Cloud-native architecture · System design
 
 [Portfolio](https://jolmo.pages.dev) · [CV](https://jolmo.pages.dev/cv)
 
-[Prometeo](https://prometeo.pages.dev)

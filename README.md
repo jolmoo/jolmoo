@@ -8,28 +8,38 @@ system design, backend engineering, and cloud infrastructure.
 
 ## Stack
 
-<table>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" /></a></td>
-  </tr>
-  <tr>
-    <td><b>Databases & Caching</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis" /></a></td>
-  </tr>
-  <tr>
-    <td><b>Infrastructure & DevOps</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,github,cloudflare" /></a></td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,js,java,c,bash" /></a></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs" /></a></td>
-  </tr>
-</table>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" /><br/>
+  <sup><b>Backend & APIs</b> — Node.js · FastAPI · Django · GraphQL</sup>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" /><br/>
+  <sup><b>Databases & Caching</b> — PostgreSQL · Redis · Oracle SQL</sup>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,github,cloudflare" /><br/>
+  <sup><b>Infrastructure & DevOps</b> — Docker · GitHub Actions · Cloudflare</sup>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,py,js,java,c,bash" /><br/>
+  <sup><b>Languages</b> — TypeScript · Python · JavaScript · Java · C · Bash</sup>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" /><br/>
+  <sup><b>Frontend (working knowledge)</b> — React · Next.js · React Native</sup>
+</div>
 
 ---
 

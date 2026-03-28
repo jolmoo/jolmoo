@@ -29,3 +29,5 @@ Distributed systems · API design · Cloud-native architecture · System design
 ---
 
 [Portfolio](https://jolmo.pages.dev) · [CV](https://jolmo.pages.dev/cv)
+
+[Prometeo](https://prometeo.pages.dev)

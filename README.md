@@ -6,16 +6,6 @@ system design, backend engineering, and cloud infrastructure.
 
 ---
 
-## 🛠️ Languages and Tools.
-
-[![Languages](https://skillicons.dev/icons?i=ts,py,js,java,c,bash&perline=10)](https://skillicons.dev)
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql&perline=10)](https://skillicons.dev)
-[![Databases](https://skillicons.dev/icons?i=postgres,redis&perline=10)](https://skillicons.dev)
-[![Infra](https://skillicons.dev/icons?i=docker,github,cloudflare&perline=10)](https://skillicons.dev)
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs&perline=10)](https://skillicons.dev)
-
----
-
 ## Stack
 
 **Backend & APIs**

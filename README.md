@@ -24,10 +24,6 @@ system design, backend engineering, and cloud infrastructure.
 <br/>
 <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,bash" />
 
-**Frontend (working knowledge)**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-
 ---
 
 ## Interests

@@ -8,39 +8,26 @@ system design, backend engineering, and cloud infrastructure.
 
 ## Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" /><br/>
-  <sup><b>Backend & APIs</b> — Node.js · FastAPI · Django · GraphQL</sup>
-</div>
-
+**Backend & APIs**
 <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" /><br/>
-  <sup><b>Databases & Caching</b> — PostgreSQL · Redis · Oracle SQL</sup>
-</div>
-
+**Databases & Caching**
 <br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" width="48" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" /><br/>
-  <sup><b>Infrastructure & DevOps</b> — AWS · Docker · GitHub Actions · Cloudflare · Nginx</sup>
-</div>
-
+**Infrastructure & DevOps**
 <br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=ts,py,js,java,c,bash" /><br/>
-  <sup><b>Languages</b> — TypeScript · Python · JavaScript · Java · C · Bash</sup>
-</div>
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,c,bash" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" /><br/>
-  <sup><b>Frontend (working knowledge)</b> — React · Next.js · React Native</sup>
-</div>
+**Frontend (working knowledge)**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 ---
 

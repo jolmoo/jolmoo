@@ -17,15 +17,15 @@ system design, backend engineering, and cloud infrastructure.
 
 <div>
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" /><br/>
   <sup><b>Databases & Caching</b> — PostgreSQL · Redis · Oracle SQL</sup>
 </div>
 
 <br/>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,github,cloudflare,nginx" /><br/>
-  <sup><b>Infrastructure & DevOps</b> — Docker · GitHub Actions · Cloudflare · Nginx</sup>
+  <img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" /><br/>
+  <sup><b>Infrastructure & DevOps</b> — AWS · Docker · GitHub Actions · Cloudflare · Nginx</sup>
 </div>
 
 <br/>

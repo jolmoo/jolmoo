@@ -8,20 +8,28 @@ system design, backend engineering, and cloud infrastructure.
 
 ## Stack
 
-**Backend & APIs**
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql&perline=10)](https://skillicons.dev)
-
-**Databases & Caching**
-[![Databases](https://skillicons.dev/icons?i=postgres,redis&perline=10)](https://skillicons.dev)
-
-**Infrastructure & DevOps**
-[![Infra](https://skillicons.dev/icons?i=docker,github,cloudflare&perline=10)](https://skillicons.dev)
-
-**Languages**
-[![Languages](https://skillicons.dev/icons?i=ts,py,js,java,c,bash&perline=10)](https://skillicons.dev)
-
-**Frontend (working knowledge)**
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs&perline=10)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Databases & Caching</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure & DevOps</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,github,cloudflare" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,js,java,c,bash" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs" /></a></td>
+  </tr>
+</table>
 
 ---
 

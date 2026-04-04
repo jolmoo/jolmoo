@@ -10,7 +10,7 @@ system design, backend engineering, and cloud infrastructure.
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" alt="Node.js, FastAPI, Django, GraphQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,graphql" alt="Node.js, FastAPI, Spring, GraphQL" />
 
 **Databases & Caching**
 <br/>

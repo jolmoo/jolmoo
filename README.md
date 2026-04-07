@@ -20,9 +20,6 @@ system design, backend engineering, and cloud infrastructure.
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" alt="AWS, Docker, GitHub Actions, Cloudflare, Nginx" />
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,c,bash" alt="Java, Python, TypeScript, JavaScript, C, Bash" />
 
 ---
 

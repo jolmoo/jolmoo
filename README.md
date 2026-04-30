@@ -8,17 +8,14 @@ system design, backend engineering, and cloud infrastructure.
 
 ## Stack
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,graphql" alt="Node.js, FastAPI, Spring, GraphQL" />
+**Backend Frameworks**  
+Spring, FastAPI  
 
-**Databases & Caching**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="PostgreSQL, Redis, MongoDB" />
+**Databases & Caching**  
+PostgreSQL, Redis, MongoDB  
 
-**Infrastructure & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,nginx" alt="AWS, Docker, GitHub Actions, Cloudflare, Nginx" />
+**Infrastructure & DevOps**  
+AWS, Docker, GitHub Actions, Cloudflare, Nginx  
 
 
 ---

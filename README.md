@@ -9,7 +9,7 @@ system design, backend engineering, and cloud infrastructure.
 ## Stack
 
 **Backend Frameworks**  
-Spring, FastAPI  
+Go, Spring, FastAPI  
 
 **Databases & Caching**  
 PostgreSQL, Redis, MongoDB  

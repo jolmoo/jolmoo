@@ -25,4 +25,4 @@ Distributed systems · API design · Cloud-native architecture · System design
 
 ---
 
-[Blog](https://jolmo.pages.dev) · [CV](https://jolmo.pages.dev/cv)
+Read my latest posts on system design and distributed systems at [jolmo.pages.dev](https://jolmo.pages.dev).
